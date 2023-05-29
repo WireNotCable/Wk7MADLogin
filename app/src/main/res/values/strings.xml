@@ -1,0 +1,16 @@
+<resources>
+    //MainActivity
+    <string name="app_name">LoginPage</string>
+    <string name="loginTitle">Login Page</string>
+    <string name="usernameText">UserName</string>
+    <string name="passwordText">Password</string>
+    <string name="buttonLoginText">Login</string>
+    <string name="newUserText">New User? Click here</string>
+
+    //MainActivity2
+    <string name="createNewUser">Create Account</string>
+    <string name="createUserNameText">UserName</string>
+    <string name="createPasswordText">Password</string>
+    <string name="confirmCreation">Create</string>
+    <string name="cancelCreation">Cancel</string>
+</resources>
